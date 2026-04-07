@@ -14,5 +14,5 @@ Me gusta mucho viajar. La última ciudad a la que fui fue Ushuaia en marzo de es
 
 Tengo 2 gatos: Balú y Mía, ambos adoptados durante el 2025.
 
-<img src="./fotos/yo.jpg" width="600" height="auto">
-<img src="./fotos/michis.jpg" width="600" height="auto">
+<img src="./fotos/yo.jpg" width="400" height="auto">
+<img src="./fotos/michis.jpg" width="400" height="auto">
